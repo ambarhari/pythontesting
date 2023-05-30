@@ -23,6 +23,5 @@ def test_permainankata():
 
 def test_daftarkata():
     hasil= daftarkata(source)
-
     assert hasil == mimpi
     
